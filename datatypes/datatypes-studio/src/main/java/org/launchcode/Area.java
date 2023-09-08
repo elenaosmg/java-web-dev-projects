@@ -16,7 +16,7 @@ public class Area {
 
 
 
-        //  Bonus 1. Validation wo loop
+        //  Bonus 1. Validation without loop
 //      System.out.println("Enter a radius: ");
 //        if (input.hasNextDouble()) {
 //            double radius = input.nextDouble();
